@@ -1,2 +1,2 @@
 # lab1
-![screenshot](paint.png)
+![screenshot](СНИМОК.png)
